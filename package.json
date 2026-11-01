@@ -24,7 +24,7 @@
     "@mastra/observability": "latest",
     "ai": "^5.0.121",
     "exa-js": "^2.0.9",
-    "zod": "^3.25.76"
+    "zod": "^4.6.7"
   },
   "devDependencies": {
     "@types/node": "^24.10.9",
